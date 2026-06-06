@@ -17,7 +17,7 @@ At the enterprise level, cybersecurity is key to overall risk management strateg
 
 ### References
 
-- [What is cybersecurity?] (https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html)
-- [What is cybersecurity?] (https://www.ibm.com/topics/cybersecurity)
+- [What is cybersecurity?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html)
+- [What is cybersecurity?](https://www.ibm.com/topics/cybersecurity)
 
 
