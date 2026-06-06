@@ -23,6 +23,8 @@
 
 ✨ Thank you for visiting my GitHub Page ✨
 
-- [Artificial Intelligence (AI)]([https://username.github.io/artificial-intelligence](https://github.com/kitisakG/kitisakG.github.io/blob/main/artificial-intelligence.md))
-- [Cybersecurity](https://username.github.io/cybersecurity)
-- [Data Analytics](https://username.github.io/data-analytics)
+## IT Keywords
+
+- [Artificial Intelligence (AI)](https://kitisakG.github.io/artificial-intelligence)
+- [Cybersecurity](https://kitisakG.github.io/cybersecurity)
+- [Data Analytics](https://kitisakG.github.io/data-analytics)
