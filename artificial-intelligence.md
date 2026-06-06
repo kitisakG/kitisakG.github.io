@@ -16,8 +16,7 @@
 
 ### References
 
-* https://www.ibm.com/topics/artificial-intelligence
-* https://www.microsoft.com/en-us/ai/what-is-ai
-* ChatGPT (OpenAI)
-* Google Gemini
+* [What is artificial intelligence (AI)?] (https://www.ibm.com/think/topics/artificial-intelligence)
+* [What is artificial intelligence?] (https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-artificial-intelligence#self-driving-cars)
+
 
