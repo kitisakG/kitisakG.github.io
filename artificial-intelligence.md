@@ -2,9 +2,9 @@
 
 ### Definition
 
-* **English (Source 1 - IBM):** "Artificial intelligence, or AI, is technology that enables computers and machines to simulate human intelligence and problem-solving capabilities."
+* **English (Source 1 - IBM):** "Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy."
 
-* **English (Source 2 - Microsoft):** "Artificial intelligence is the capability of a computer system to mimic human cognitive functions such as learning and problem-solving."
+* **English (Source 2 - Microsoft):** "Using math and logic, a computer system simulates the reasoning that humans use to learn from new information and make decisions. An artificially intelligent computer system makes predictions or takes actions based on patterns in existing data and can then learn from its errors to increase its accuracy. A mature AI processes new information extremely quickly and accurately, which makes it useful for complex scenarios such as self-driving cars, image recognition programs, and virtual assistants."
 
 * **Thai:** ปัญญาประดิษฐ์ (AI) คือเทคโนโลยีที่ทำให้คอมพิวเตอร์หรือเครื่องจักรสามารถเรียนรู้ วิเคราะห์ ตัดสินใจ และแก้ปัญหาได้คล้ายกับมนุษย์ โดยอาศัยข้อมูล อัลกอริทึม และการประมวลผลที่ชาญฉลาด
 
