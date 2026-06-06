@@ -15,6 +15,6 @@
 * "Artificial Intelligence ครอบคลุมเทคโนโลยีหลายแขนง เช่น Machine Learning, Deep Learning และ Natural Language Processing ซึ่งช่วยให้คอมพิวเตอร์สามารถวิเคราะห์ข้อมูลจำนวนมาก ค้นหารูปแบบ และตอบสนองต่อสถานการณ์ต่าง ๆ ได้อย่างแม่นยำมากขึ้น ส่งผลให้ AI ถูกนำไปใช้ในอุตสาหกรรม การแพทย์ การศึกษา และธุรกิจอย่างกว้างขวาง" **(Google Gemini)**
 
 ### References
+- [What is artificial intelligence (AI)?](https://www.ibm.com/topics/artificial-intelligence)
+- [What is artificial intelligence?](https://www.microsoft.com/en-us/ai/what-is-ai)
 
-* https://www.ibm.com/topics/artificial-intelligence
-* https://www.microsoft.com/en-us/ai/what-is-ai
