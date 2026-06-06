@@ -1,6 +1,6 @@
 # Artificial Intelligence (AI)
 
-### <Definition>
+### Definition
 
 * **English (Source 1 - IBM):** "Artificial intelligence, or AI, is technology that enables computers and machines to simulate human intelligence and problem-solving capabilities."
 
@@ -8,15 +8,13 @@
 
 * **Thai:** ปัญญาประดิษฐ์ (AI) คือเทคโนโลยีที่ทำให้คอมพิวเตอร์หรือเครื่องจักรสามารถเรียนรู้ วิเคราะห์ ตัดสินใจ และแก้ปัญหาได้คล้ายกับมนุษย์ โดยอาศัยข้อมูล อัลกอริทึม และการประมวลผลที่ชาญฉลาด
 
-### <Explanation>
+### Explanation
 
 * "AI เป็นสาขาหนึ่งของวิทยาการคอมพิวเตอร์ที่มุ่งเน้นการสร้างระบบที่สามารถเรียนรู้จากข้อมูลและปรับปรุงการทำงานของตนเองได้ ตัวอย่างการใช้งาน AI ที่พบได้ในชีวิตประจำวัน ได้แก่ ระบบแนะนำสินค้า การรู้จำใบหน้า ผู้ช่วยอัจฉริยะ และระบบแปลภาษาอัตโนมัติ ซึ่งช่วยเพิ่มประสิทธิภาพในการทำงานและการตัดสินใจของมนุษย์" **(ChatGPT 4o)**
 
 * "Artificial Intelligence ครอบคลุมเทคโนโลยีหลายแขนง เช่น Machine Learning, Deep Learning และ Natural Language Processing ซึ่งช่วยให้คอมพิวเตอร์สามารถวิเคราะห์ข้อมูลจำนวนมาก ค้นหารูปแบบ และตอบสนองต่อสถานการณ์ต่าง ๆ ได้อย่างแม่นยำมากขึ้น ส่งผลให้ AI ถูกนำไปใช้ในอุตสาหกรรม การแพทย์ การศึกษา และธุรกิจอย่างกว้างขวาง" **(Google Gemini)**
 
-### <References>
+### References
 
-* [What is artificial intelligence (AI)?] (https://www.ibm.com/think/topics/artificial-intelligence)
-* [What is artificial intelligence?] (https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-artificial-intelligence#self-driving-cars)
-
-
+* https://www.ibm.com/topics/artificial-intelligence
+* https://www.microsoft.com/en-us/ai/what-is-ai
