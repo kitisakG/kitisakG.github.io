@@ -2,7 +2,9 @@
 
 ### Definition
 
-* **English (Source 1 - Cisco):** "The rise in digital cyberattacks has made cybersecurity a priority for businesses and individuals. For businesses, cybercrimes can lead to financial loss, operational disruption, data breaches, and a loss of trust, while individuals face identity theft, financial fraud, and privacy invasion."
+* **English (Source 1 - Cisco):** "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users through ransomware; or interrupting normal business processes.
+
+Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people, and attackers are becoming more innovative."
 
 * **English (Source 2 - IBM):** "Cybersecurity is the practice of protecting people, systems and data from cyberattacks by using various technologies, processes and policies. 
 At the enterprise level, cybersecurity is key to overall risk management strategy, and specifically, cyber risk management. Common cybersecurity threats include ransomware and other malware, phishing scams, data theft and more recently, attacks powered by artificial intelligence (AI)."
@@ -17,7 +19,7 @@ At the enterprise level, cybersecurity is key to overall risk management strateg
 
 ### References
 
-- [What is cybersecurity?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html)
+- [What is cybersecurity all about?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html)
 - [What is cybersecurity?](https://www.ibm.com/topics/cybersecurity)
 
 
