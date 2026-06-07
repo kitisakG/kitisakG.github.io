@@ -2,9 +2,9 @@
 
 ### Definition
 
-* **English (Source 1 - IBM):** "Big data refers to the large, diverse sets of information that grow at ever-increasing rates."
+* **English (Source 1 - IBM):** "Big data refers to massive, complex datasets that traditional data management systems cannot handle. When properly collected, managed and analyzed, big data can help organizations discover new insights and make better business decisions."
 
-* **English (Source 2 - Oracle):** "Big data is larger, more complex data sets, especially from new data sources. These data sets are so voluminous that traditional data processing software cannot manage them."
+* **English (Source 2 - Oracle):** "Big data refers to the incredible amount of structured and unstructured information that humans and machines generate—petabytes every day, according to PwC. It’s the social posts we mine for customer sentiment, sensor data showing the status of machinery, financial transactions that move money at hyperspeed. It’s also too massive, too diverse, and comes at us way too fast for old-school data processing tools and practices to stand a chance."
 
 * **Thai:** Big Data คือข้อมูลขนาดใหญ่ที่มีปริมาณมาก หลากหลายรูปแบบ และเกิดขึ้นอย่างรวดเร็ว จนไม่สามารถจัดการหรือวิเคราะห์ได้อย่างมีประสิทธิภาพด้วยเครื่องมือแบบดั้งเดิม จำเป็นต้องใช้เทคโนโลยีและเครื่องมือเฉพาะในการจัดเก็บและวิเคราะห์ข้อมูล
 
@@ -16,7 +16,7 @@
 
 ### References
 
-- [What is cloud computing?](https://www.ibm.com/topics/big-data)
-- [Cloud computing defined](https://www.oracle.com/big-data/what-is-big-data/)
+- [What is big data?](https://www.ibm.com/topics/big-data)
+- [What Is Big Data?](https://www.oracle.com/big-data/what-is-big-data/)
 
 
