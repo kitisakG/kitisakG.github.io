@@ -27,4 +27,4 @@
 
 - [Artificial Intelligence (AI)](https://kitisakG.github.io/artificial-intelligence)
 - [Cybersecurity](https://kitisakG.github.io/cybersecurity)
-- [Cloud Computing](https://kitisakG.github.io/big-data)
+- [Big Data](https://kitisakG.github.io/big-data)
