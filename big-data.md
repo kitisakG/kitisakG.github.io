@@ -2,7 +2,7 @@
 
 ### Definition
 
-* **English (Source 1 - IBM):** "Big data refers to the incredible amount of structured and unstructured information that humans and machines generate—petabytes every day, according to PwC. It’s the social posts we mine for customer sentiment, sensor data showing the status of machinery, financial transactions that move money at hyperspeed. It’s also too massive, too diverse, and comes at us way too fast for old-school data processing tools and practices to stand a chance. It’s also much too valuable to leave unanalyzed. Big data infers the ability to extract insights from this broad collection of data to help an organization become more efficient, innovate faster, earn more money, and just all around win. Luckily, advancements in analytics and machine learning technology and tools make big data analysis accessible for every company."
+* **English (Source 1 - IBM):** "Big data refers to massive, complex datasets that traditional data management systems cannot handle. When properly collected, managed and analyzed, big data can help organizations discover new insights and make better business decisions."
 
 * **English (Source 2 - Oracle):** "Big data refers to the incredible amount of structured and unstructured information that humans and machines generate—petabytes every day, according to PwC. It’s the social posts we mine for customer sentiment, sensor data showing the status of machinery, financial transactions that move money at hyperspeed. It’s also too massive, too diverse, and comes at us way too fast for old-school data processing tools and practices to stand a chance."
 
