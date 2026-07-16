@@ -14,6 +14,6 @@ Real-Time คือ การประมวลผล วิเคราะห�
 > "Real-Time เป็นการประมวลผลข้อมูลอย่างต่อเนื่องด้วยความหน่วงต่ำ เพื่อให้ข้อมูลที่แสดงผลเป็นข้อมูลปัจจุบันและสามารถตอบสนองต่อเหตุการณ์ได้ทันที" (Google Gemini)
 
 ### 🔗 Sources
-- [IBM. *What is Real-Time Data?](https://www.ibm.com/think/topics/real-time-data)
-- [IBM. *What is Real-Time Analytics?](https://www.ibm.com/think/topics/real-time-analytics)
+- [What is Real-Time Data?](https://www.ibm.com/think/topics/real-time-data)
+- [What is Real-Time Analytics?](https://www.ibm.com/think/topics/real-time-analytics)
 
