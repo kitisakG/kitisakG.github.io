@@ -30,6 +30,6 @@
 - [Big Data](https://kitisakG.github.io/big-data)
 
 ## Keywords Project
-- [Real-Time](https://kitisakG.github.io/artificial-intelligence)
-- [Product Location](https://kitisakG.github.io/cybersecurity)
-- [IoT Development Board](https://kitisakG.github.io/big-data)
+- [Real-Time](https://kitisakG.github.io/Real-Time)
+- [Product Location](https://kitisakG.github.io/Product-Location)
+- [IoT Development Board](https://kitisakG.github.io/IoT-Development-Board)
