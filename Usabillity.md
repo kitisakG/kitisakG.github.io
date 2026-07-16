@@ -18,5 +18,5 @@ Usability คือ คุณลักษณะด้านคุณภาพข
 - [Nielsen Norman Group – Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
 ###  ผู้จัดทำ 
-- [นายกิติศักดิ์ ด้วงนวม](https://kitisakG.github.io/Usabillity.md)
-- [นายสุมิตร พาลิวงศ์](https://  /Usabillity.md)
+- [นายกิติศักดิ์ ด้วงนวม](https://kitisakg.github.io/Usabillity)
+- [นายสุมิตร พาลิวงศ์]()
