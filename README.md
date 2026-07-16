@@ -30,6 +30,6 @@
 - [Big Data](https://kitisakG.github.io/big-data)
 
 ## Keywords Project
-- [Real-Time](https://kitisakG.github.io/Real-Time)
-- [Product Location](https://kitisakG.github.io/Product-Location)
+- [Real Time Tracking](https://kitisakG.github.io/Real-Time)
+- [Rack Product Management](https://kitisakG.github.io/Rack-Product-Management)
 - [IoT Development Board](https://kitisakG.github.io/IoT-Development-Board)
