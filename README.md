@@ -37,4 +37,4 @@
 
 ## Quality Attribute
 
-- [Usabillity](https://kitisakG.github.io/Usabillity)
+- [Usabillity](https://kitisakg.github.io/Usabillity)
