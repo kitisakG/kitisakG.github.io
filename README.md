@@ -31,7 +31,7 @@
 
 ## Keywords Project
 
-- [Real Time Tracking](https://kitisakG.github.io/Real-Time-Tracking)
+- [Real-Time Tracking](https://kitisakG.github.io/Real-Time-Tracking)
 - [IoT Development Board](https://kitisakG.github.io/IoT-Development-Board)
 
 ## Quality Attribute
