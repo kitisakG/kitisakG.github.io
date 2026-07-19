@@ -1,7 +1,7 @@
 # IoT Development Board
 
-**English (Source 1 - Arduino)**  
-“Arduino is an open-source electronics platform based on easy-to-use hardware and software.”
+**English (Source 1 - element14)**  
+“Development boards serve as the key building blocks prototyping, experimenting, and creating innovative solutions that transcend the traditional boundaries of technology. An IoT development board must have prototyping capabilities for different features or products. They also must support various types of connectivity, supporting a variety of communication protocols. These protocols are like different languages that allow IoT devices to communicate with each other within an IoT system.”
 
 **English (Source 2 - Espressif Systems)**  
 “ESP32 is a low-power system on a chip microcontroller with integrated Wi-Fi and Bluetooth designed for Internet of Things (IoT) applications.”
@@ -14,6 +14,6 @@ IoT Development Board คือ บอร์ดไมโครคอนโทร
 > "บอร์ดพัฒนา IoT เป็นฮาร์ดแวร์ที่ช่วยให้นักพัฒนาสามารถสร้างต้นแบบอุปกรณ์อัจฉริยะ เชื่อมต่อเซนเซอร์ และประมวลผลข้อมูลได้อย่างมีประสิทธิภาพ" (Google Gemini)
 
 ### 🔗 Sources
-- [Arduino - What is Arduino?](https://www.arduino.cc/en/Guide/Introduction)
+- [What is an IoT Development Board?](https://community.element14.com/technologies/internet-of-things/b/blog/posts/the-best-of-iot-development-boards)
 - [ESP32 Series Overview ](https://www.espressif.com/en/products/socs/esp32)
 
